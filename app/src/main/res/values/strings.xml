@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjectVersion2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyABDGJ7Uxq8W-jGzOJWVjHqB32IT_GKpqg</string>
+    <string name="find_help_button">Find Help</string>
+</resources>
